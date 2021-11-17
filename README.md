@@ -16,6 +16,7 @@ Projets similaires:
 - https://www.topbots.com/chihuahua-muffin-searching-best-computer-vision-api/ - API différenciation muffin et chien
 
 Inspiration:
+
 Les documents nécessaires se trouvent dans : docs/inspiration
 
 Données:
