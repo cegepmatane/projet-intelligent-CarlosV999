@@ -13,3 +13,6 @@ Projets similaires: - https://www.youtube.com/watch?v=9xw07onbH-A - détecteur d
 - https://www.youtube.com/watch?v=ySE5_5gRHTM - Object Detection on video using Tensorflow and OpenCV Final
 - https://www.youtube.com/watch?v=fUZOpofWfD8 - Face and eyes detection with opencv python | Object detection on live video
 - https://www.topbots.com/chihuahua-muffin-searching-best-computer-vision-api/ - API différenciation muffin et chien
+
+Inspiration :
+Les documents nécessaires se trouvent dans : docs/inspiration
