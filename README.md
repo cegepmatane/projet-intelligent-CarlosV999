@@ -15,8 +15,7 @@ Projets similaires:
 - https://www.youtube.com/watch?v=fUZOpofWfD8 - Face and eyes detection with opencv python | Object detection on live video
 - https://www.topbots.com/chihuahua-muffin-searching-best-computer-vision-api/ - API différenciation muffin et chien
 
-Inspiration:
-
+Inspiration:  
 Les documents nécessaires se trouvent dans : docs/inspiration
 
 Données:
