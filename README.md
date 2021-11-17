@@ -2,7 +2,8 @@
 projet-intelligent-CarlosV999 created by GitHub Classroom
 
 
-Projets similaires: - https://www.youtube.com/watch?v=9xw07onbH-A - détecteur d'objets
+Projets similaires: 
+- https://www.youtube.com/watch?v=9xw07onbH-A - détecteur d'objets
 - https://www.youtube.com/watch?v=sOikYpcMbN8 - détecteur de pokémon
 - https://www.cdrin.com/blog/intelligence-artificielle-reconnaitre-sorte-espece-poissons?categoryId=57007 - détecteur de poisson
 - https://www.youtube.com/watch?v=wabXrzXtjfc - How to Train and Test an Object Detection Model (faster_rcnn) using Google Colab
