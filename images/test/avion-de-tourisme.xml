@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>avion-de-tourisme.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\avion-de-tourisme.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_loisir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>357</ymin>
+			<xmax>1120</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aeronef_de_loisir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>209</ymin>
+			<xmax>970</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

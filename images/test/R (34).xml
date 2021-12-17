@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>R (34).jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\R (34).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_loisir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>392</ymin>
+			<xmax>1474</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aeronef_militaire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>308</ymin>
+			<xmax>814</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

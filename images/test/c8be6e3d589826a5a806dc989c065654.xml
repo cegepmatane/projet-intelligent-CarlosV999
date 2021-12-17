@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>c8be6e3d589826a5a806dc989c065654.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\c8be6e3d589826a5a806dc989c065654.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>547</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_militaire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>819</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

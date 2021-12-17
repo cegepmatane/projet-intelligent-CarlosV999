@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>R (6).jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\R (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_militaire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>106</ymin>
+			<xmax>1106</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

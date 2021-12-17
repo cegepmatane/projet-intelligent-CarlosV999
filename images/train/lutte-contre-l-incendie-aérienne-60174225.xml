@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lutte-contre-l-incendie-aérienne-60174225.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\lutte-contre-l-incendie-aérienne-60174225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_service</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>74</ymin>
+			<xmax>498</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

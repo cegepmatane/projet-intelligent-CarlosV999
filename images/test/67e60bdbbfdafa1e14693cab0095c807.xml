@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>67e60bdbbfdafa1e14693cab0095c807.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\67e60bdbbfdafa1e14693cab0095c807.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>137</ymin>
+			<xmax>1186</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+</annotation>

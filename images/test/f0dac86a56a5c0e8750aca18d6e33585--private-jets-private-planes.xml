@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>f0dac86a56a5c0e8750aca18d6e33585--private-jets-private-planes.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\f0dac86a56a5c0e8750aca18d6e33585--private-jets-private-planes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>282</ymin>
+			<xmax>400</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>383</ymin>
+			<xmax>530</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

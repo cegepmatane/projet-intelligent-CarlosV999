@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>beriev-be-200-1.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\beriev-be-200-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_service</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>6</ymin>
+			<xmax>535</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

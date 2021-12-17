@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>joyon-gerard-tracker-11-mai-29-mai-2006-poulx-prot-copie-scaled-e1587636521752-1024x576.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\joyon-gerard-tracker-11-mai-29-mai-2006-poulx-prot-copie-scaled-e1587636521752-1024x576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_service</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>202</ymin>
+			<xmax>689</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

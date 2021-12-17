@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>b1c9d0201517da9c8bc36d36cb58babe.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\b1c9d0201517da9c8bc36d36cb58babe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>678</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_militaire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>184</ymin>
+			<xmax>1024</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

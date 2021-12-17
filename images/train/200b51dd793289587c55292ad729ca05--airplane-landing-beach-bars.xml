@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>200b51dd793289587c55292ad729ca05--airplane-landing-beach-bars.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\200b51dd793289587c55292ad729ca05--airplane-landing-beach-bars.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>33</ymin>
+			<xmax>735</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

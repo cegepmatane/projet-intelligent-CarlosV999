@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>AT-802A-800-01-1800-900x387.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\AT-802A-800-01-1800-900x387.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_service</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>99</ymin>
+			<xmax>889</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>l-antonov-124-a-atterri-a-brest-guipavas-peu-apres-15-h-30_4599771.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\l-antonov-124-a-atterri-a-brest-guipavas-peu-apres-15-h-30_4599771.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>33</ymin>
+			<xmax>991</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

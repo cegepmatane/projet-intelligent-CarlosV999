@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hondajet-elite-avion-jet.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\hondajet-elite-avion-jet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>126</ymin>
+			<xmax>1229</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

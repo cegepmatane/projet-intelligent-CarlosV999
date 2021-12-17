@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>meeting-aerien-distres-L-wp3Vea.jpeg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\meeting-aerien-distres-L-wp3Vea.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_service</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>87</ymin>
+			<xmax>477</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

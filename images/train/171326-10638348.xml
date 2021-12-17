@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>171326-10638348.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\train\171326-10638348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1435</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_de_loisir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>29</ymin>
+			<xmax>1183</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

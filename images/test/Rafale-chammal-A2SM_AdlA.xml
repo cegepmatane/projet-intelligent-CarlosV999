@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Rafale-chammal-A2SM_AdlA.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\Rafale-chammal-A2SM_AdlA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_militaire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>484</ymin>
+			<xmax>1979</xmax>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+</annotation>

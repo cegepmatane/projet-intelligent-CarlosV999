@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>qu-est-ce-que-le-nolisement-d-avion.jpg</filename>
+	<path>C:\Users\2034642\OneDrive - Cegep De Matane\Documents\GitHub\projet-intelligent-CarlosV999\images\test\qu-est-ce-que-le-nolisement-d-avion.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aeronef_commercial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>133</ymin>
+			<xmax>1573</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>
