@@ -17,4 +17,5 @@ Projets similaires:
 Inspiration:  
 Les documents nécessaires se trouvent dans : docs/inspiration
 
-Données:
+lien du colab: https://colab.research.google.com/drive/1fgVNrUuTs_EIC3CgooOIUe7WcIYsgRNl?usp=sharing
+les fichiers à importer dans le colab sont dans "training_demo".
