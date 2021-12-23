@@ -50,8 +50,6 @@ AVION_CHARTER.jpg
 AVION_CHARTER.xml
 avion-de-tourisme.jpg
 avion-de-tourisme.xml
-avion-difficulte-mont-joli-bas-saint-laurent-aeroport.jpg
-avion-difficulte-mont-joli-bas-saint-laurent-aeroport.xml
 avioneta.jpg
 avioneta.xml
 AW139-LAFD-incendie-Glendale-sujet_LAFD.jpg
