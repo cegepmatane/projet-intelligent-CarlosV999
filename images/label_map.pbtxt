@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Aeronef_militaire'
+}
+
+item {
+    id: 2
+    name: 'Aeronef_commercial'
+}
+
+item {
+    id: 3
+    name: 'Aeronef_de_service'
+}
+
+item {
+    id: 4
+    name: 'Aeronef_de_loisir'
+}
