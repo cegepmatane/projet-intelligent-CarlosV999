@@ -1,6 +1,8 @@
 # projet-intelligent-CarlosV999
 projet-intelligent-CarlosV999 created by GitHub Classroom
 
+lien du colab: https://colab.research.google.com/drive/1fgVNrUuTs_EIC3CgooOIUe7WcIYsgRNl?usp=sharing
+les fichiers à importer dans le colab sont dans "training_demo" mais leurs importation se fait toute seule via les commandes dans le colab.
 
 Projets similaires: 
 - https://www.youtube.com/watch?v=sOikYpcMbN8 - détecteur de pokémon
@@ -16,6 +18,3 @@ Projets similaires:
 
 Inspiration:  
 Les documents nécessaires se trouvent dans : docs/inspiration
-
-lien du colab: https://colab.research.google.com/drive/1fgVNrUuTs_EIC3CgooOIUe7WcIYsgRNl?usp=sharing
-les fichiers à importer dans le colab sont dans "training_demo".
